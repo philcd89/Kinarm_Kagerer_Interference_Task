@@ -1,2 +1,2 @@
-# Kinarm_Kagerer_Interference_Task
-This task is designed for the [Kinarm Endpoint Robot](https://www.kinarm.com) and to be used with the Kinarm SDK and Dexterit-E software.  This task applies a perturbation to one hand to examine interference during bimanual reaching movements.  It is adapted from Kagerer (2015) bimanual interference joystick task.  This task also allows for synchronization with EEG to evaluate concurrent brain dynamics.
+# Kinarm Kagerer Interference Task
+This task was designed for the Motor Neuroscience Lab in 2016.  This task uses a [Kinarm Endpoint Robot](https://www.kinarm.com) and is meant to be used with the Kinarm SDK and Dexterit-E software.  This task applies a visuomotor perturbation to one hand to examine interference during bimanual reaching movements.  It is adapted from Kagerer (2015) bimanual interference joystick task.  This task also allows for synchronization with EEG to evaluate concurrent brain dynamics.
